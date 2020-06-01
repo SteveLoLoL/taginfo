@@ -187,6 +187,15 @@ var taginfo_taglist = (function(){
                 'osmcarto_rendering': 'Hình tượng',
                 'count': 'Tổng số'
             },
+            'zh-CN': {
+                'key': '关键字',
+                'value': '值',
+                'element': '类型',
+                'description': '描述',
+                'image': '图片',
+                'osmcarto_rendering': '图示',
+                'count': '计数'
+            },
             'zh-TW': {
                 'key': '鍵',
                 'value': '值',
